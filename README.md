@@ -8,7 +8,7 @@ This project was completed as part of a Senior Data Analyst technical assessment
 ---
 
 ## The Story
-Madrid is attracting more visitors every year — but the platform is losing them at every step of the funnel.
+Madrid is attracting more visitors every year but the platform is losing them at every step of the funnel.
 
 While revenue grew +37% between 2023 and 2025, booking growth was only +17%. Supply grew +75% but listing utilisation declined from 42.7% to 28.5%. Rising rents (+20.8%) may be pricing out the core tenant audience of international students and young professionals.
 
